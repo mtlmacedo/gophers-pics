@@ -3,3 +3,8 @@ The gophests gophers in gopher history, just a place holder for my blog's pictur
 
 
 ![alt-text](GopherPointer.png)
+
+
+![alt-text](gomapswithbackground.png)
+
+
